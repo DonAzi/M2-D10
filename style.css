@@ -29,9 +29,9 @@ body {
 }
 
 .card {
-  flex-direction: row;
+  justify-content: center;
   display: inline-block;
-  height: 100px;
-  width: 150px;
-  background-color: aquamarine;
+  flex-direction: row;
+  width: 250px;
+  margin: 9px;
 }
